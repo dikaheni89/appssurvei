@@ -1,0 +1,1091 @@
+.btn , .btn.dec_btn{
+	padding:12px 25px 12px 55px;
+}
+.btn i {
+	left:20px;
+	right: inherit;
+} 
+.btn:hover i {
+	right:inherit;
+	left:10px;
+}
+.float-btn , .logo-holder , .header-search_btn , .nav-holder , .nav-holder nav li , .nav-holder nav li a , .header-search_btn i , .widget-posts-img  ,   .widget-posts-descr  , .widget-posts-descr .geodir-category-location a , .geodir-category-location a i , .header-modal-top h4 , .header-search-input , .main-register-holder .tabs-menu li, .filter-sidebar-header .tabs-menu li , .main-register-holder .tabs-menu li a i, .filter-sidebar-header .tabs-menu li a i , .main-register-holder .filter-tags , .filter-tags label, .custom-form .filter-tags label , .filter-tags input, .custom-form .filter-tags input, .main-search-input-item  , .daterangepicker select.ampmselect, .daterangepicker select.hourselect, .daterangepicker select.minuteselect, .daterangepicker select.secondselect , .listing-item-grid .listing-counter span  , .geodir-category-opt_title  , .listing-rating-count-wrap .review-score , .listing-rating , .listing-rating-count-wrap .reviews-count , .card-popup-rainingvis_bg span  , .listing-item-category-wrap , .listing-item-category , .listing-item-category-wrap span , .listing_carditem_footer .geodir-category_price  , .listing_carditem_footer .post-author , .post-author img  , .geodir-opt-list li , .geodir-category_contacts li span, .geodir-category_contacts li a , .geodir-category_contacts li span i , .geodir-category-content h3, .cart-details_text .geodir-category-content-title-item h3  , .geodir-category-location a  , .facilities-list-title  , .facilities-list li , .down-btn  , .subscribe-header h3 , .subscribe-header p , .footer-logo  , .footer-contacts li  , .footer-contacts li a, .footer-contacts li span  ,   .footer-contacts li span i  , .footer-social ul, .footer-social li, .footer-social li a, .footer-social span, .footer-social, .subfooter-nav li, .sub-footer .copyright , #footer-twiit .timePosted a  , .footer-widget-posts .widget-posts-img  , .footer-widget-posts .widget-posts-descr  , .footer-widget-posts .widget-posts-date i  , .footer-link , .process-item_time-line , .pi_head , .team-social , .team-social li  , .breadcrumbs.inline-breadcrumbs a, .breadcrumbs.inline-breadcrumbs span, .breadcrumbs.top-breadcrumbs a, .breadcrumbs.top-breadcrumbs span , .user-profile-header_media_title , .user-profile-header_stats li  , .list-main-wrap-title , .grid-opt, .price-opt  , .grid-opt li , .geodir-category-img , .list-author-widget-contacts li span, .list-author-widget-contacts li a , .list-author-widget-contacts li span i , .list-widget-social li , .box-widget-author-title-img , .chat-widget_header h3  , .massage-date , .chat-message p , .tags-stylwrap a , .cat-item li a , .post-opt, .post-opt li , .post-author , .post-opt li i   , .tags-stylwrap .tags-title , .tags-stylwrap .tags-title i , .reviews-comments-item-date , .reviews-comments-item-date span i, .reviews-comments-item-date a i , .custom-form label , #progressbar li , .success-table-header h4, .success-table-header p, .previous-form   , .list-main-wrap-title h2  , .cart-total span , .coupon-holder button.btn-a  , .coupon-holder input , .cart-modal-list li .cart-modal-image , .cart-modal-det  , .cart-modal-det a , .cart-modal-total-title , .process-wrap li , .product-header-details_price  , .product-header_form .quantity , .product-header_form button , .shop-tabs-menu a , .shop-list li span , .rate-review i , .leave-rating-title , .leave-rating , .leave-rating label , .shop-item_price , .price-opt-title , .col-list-wrap , .listsearch-input-wrap_contrl li , .listsearch-input-wrap-header i , .filter-tags li , .card-popup-raining i , .map-popup-location-info i , .map-popup-location-info , .map-popup-footer .main-link  , .list-single-header-item .verified-badge  , .list-single-author  , .list-single-header_bottom .geodir_status_date , .list-single-stats li , .scroll-nav   , .scroll-nav li , .scroll-nav-wrapper-opt a.scroll-nav-wrapper-opt-btn , .show-more-snopt , .show-more-snopt-tooltip a i , .opening-hours ul li span.opening-hours-day  , .pricerange span , .claim-widget-link span, .claim-widget-link a  , .custom-form .quantity span , .custom-form .quantity span i , .listing-features li  , .list-single-main-item_content .listing-features li i , .inline-facts-wrap .num  , .menu-filters, .menu-filters a , .restmenu-item-det-header h4  , .rate-item-title , .rate-item-bg , .rate-item-line , .review-total, .review-range-container , .review-range-item .range-slider-title, .review-range-item .range-slider-wrap  , .counter-widget   , .rooms-media , .rooms-details , .dashboard-header-stats-wrap   , .dashboard-breadcrumbs a , .dashboard-breadcrumbs span , .tfp-btn span , .tfp-btn strong , .user-profile-menu li a i  , .logout_btn , [class="0-legend"] li , .listsearch-input-item , .dashboard-message-text , .dashboard-message-text i , .radio span , .act-widget h4 , .booking-list-message-avatar , .booking-title , booking-text , .dashboard-message-text img , .follow-user-list li , .map-modal-container h3 , .map-modal-container h3 span , .map-modal-container h3 a , .show-reg-form i {
+	float: right;
+}
+.header-search_btn {
+	margin:0 70px 0 0;
+}
+.nav-holder {
+	margin:0 40px 0 0;
+}
+.cart-btn  , .add-list , .lang-wrap , .show-reg-form , .nav-holder nav li a span  , .nav-holder nav li a i  , .daterangepicker .drp-selected , .daterangepicker .drp-buttons .btn , .listing_carditem .listing-rating-count-wrap , .geodir-opt-list , .verified-badge , .subfooter-nav , .user-profile-header_stats , .list-main-wrap-opt , .follow-btn i  , .chat-message.chat-message_user .massage-date , .cat-item li span , .post-article .btn  , #progressbar li span , .next-form , .success-table-header a , .cart_list li span, .cart-total strong , .cart-modal-total .woocommerce-Price-amount , .product-header-details .listing-rating-count-wrap , .rate-review , .rate-review span  , .shop-item_link ,  .map-popup-footer .main-link i , .list-single-stats  , .scroll-nav-wrapper-opt , .opening-hours ul li span.opening-hours-time , .quantity-item , .restmenu-item-det-price , .add_new-dashboard , .tfp-det-btn , .add_new-dashboard i    , .logout_btn i , #myChartLegend , .dashboard-message-time , .header-user-menu , .act-widget-header .onoffswitch  , .dashboard-tabs .tabs-menu li a span   {
+	float:left;
+	margin-right:0;
+}
+.show-reg-form {
+	margin-left:30px;
+}
+.show-reg-form:before {
+	left:inherit;
+	right:-15px;
+}
+.show-reg-form i {
+	margin:3px 0 0 14px;
+}
+.cart-btn{
+	margin-left:34px;
+}
+.lang-wrap {
+	margin-left:20px;
+}
+.main-header:before , .lang-tooltip li a:before {
+	right:inherit;
+	left:0;
+}
+.lang-tooltip li a , .nav-holder nav li ul a , .widget-posts-descr h4 , .widget-posts-descr .geodir-category-location a  , .main-register-holder .tabs-menu li, .filter-sidebar-header .tabs-menu li   , .main-register_title   , .geodir-category-opt h4  , .geodir-category-content h3, .cart-details_text .geodir-category-content-title-item h3 , .geodir-category-location a , .geodir-category-content p , .colomn-text-title h3  , .colomn-text-title p, .colomn-text-list li p   , .subscribe-header , .footer-widget .footer-contacts-widget p , #footer-twiit p.tweet , .footer-widget h3 , .footer-widget-posts .widget-posts-descr , .list-single-main-item p, .accordion-inner p, .author-content p, .about-wrap p, .user-profile-header_content p , .ab_text-title h3 , .ab_text-title h4 , .pi-text h4  , .pi-text p , .team-info h3, .team-info h4 , .box-widget-item-header h3, .list-single-main-item-title h3, .list-single-main-item_subtitle h4 , .user-profile-header_media_title h3, .user-profile-header_media_title h4  , .list-main-wrap-title , .list-author-widget-contacts li span, .list-author-widget-contacts li a , .box-widget-author-title_content a , .box-widget-author-title_content span , .post-opt-title , .custom-form label , .geodir-category_contacts li , .reviews-comments-item-text h4 , .cart-details-item-header , .list-main-wrap-title h2  , .cart_list li , .cart-ttitle , .cart-modal h3 , .cart-modal-det .quantity , .faq-title , .accordion a.toggle , .features-box h3  , .features-box p , .product-header-details h3 , .product-header-details p, .shop-tab-container p , .shop-list li , .shop-item_title h4  , .listsearch-input-wrap-header , .listing-title h4 , .map-popup-location-info , .filter-sidebar-header .tabs-menu li a , .list-single-header-item h1 , .scroll-nav li a , .show-more-snopt-tooltip a , .pricerange  , .claim-widget-link span, .claim-widget-link a  , .listing-features li , .inline-facts-wrap h6 , .restmenu-item-det-header h4 , .rate-item-title , .review-range-item .range-slider-title  , .rooms-details-header , .dashboard-header_title h1 , .dashboard-header-stats-item  , .user-profile-menu li , .user-profile-menu h3  , .dashboard-title h3  , .dashboard-message-text p , .header-user-menu ul li a , .booking-list-message-text , .booking-list-message-text p, .profile-edit-container .reviews-comments-item-text p , .dashboard-message-text h4 , .chat-contacts-item .chat-contacts-item-text h4  , .chat-contacts-item .chat-contacts-item-text p , #footer-twiit .timePosted a , .map-modal-container h3{
+	text-align:right;
+}
+.cart-counter {
+	left:9px;
+}
+.add-list span , .follow-btn i  {
+	float:left;
+	padding-left:0;
+	padding-right:10px;
+}
+.nav-holder nav li {
+	margin-left:0;
+	margin-right:6px;
+}
+.nav-holder nav li a i {
+	padding-left:0;
+	padding-right:10px;
+	margin-top:6px;
+}
+.header-search_btn {
+	width:auto;
+	padding:14px 50px;
+}
+.header-search_btn  i{
+	margin-left:30px;
+	margin-right:0;
+	margin-top:4px;
+}
+.header-search_btn span:before {
+	left:inherit;
+	right:-15px;
+}
+.header-modal {
+    right: inherit;
+	left:190px;
+}
+.vis-wishlist{
+	right:inherit;
+	left:210px;
+}
+.widget-posts-descr-link a {
+	float:right;
+	margin-left:4px;
+	margin-right:0;
+}
+.geodir-category-location a i {
+	padding-left:6px;
+	padding-right:0;
+}
+.widget-posts-descr-score {
+    right: inherit;
+	left:0;
+    border-radius:0 4px  0 0;
+}
+.clear-wishlist {
+	right:inherit;
+	left:5px;
+}
+.close-header-modal , .close-reg{
+	right:inherit;
+	left:0;
+	border-left:none;
+	border-right: 1px solid rgba(255,255,255,0.11);
+}
+.header-modal-top {
+    padding: 15px 20px 15px 60px;
+}
+.header-search-input-wrap {
+    padding: 0  0 0 199px;
+}
+.header-search-button    {
+	right:inherit;
+	left:0;
+}
+.header-search_container:before {
+	left: auto !important;
+	right:30px;
+}
+.header-search-input input  {
+	text-align: right;
+	direction:rtl;
+	padding: 0 40px 0 20px;
+}
+.header-search-input label {
+	left:auto;
+	right:20px;
+}
+.location a {
+	right:auto;
+	left:20px;
+}
+.nice-select {
+	text-align:right !important;
+	padding-left:30px;
+	padding-right:42px;
+}
+.nice-select:after {
+	right:auto;
+	left:22px;
+}
+.nice-select:before  {
+	left:auto;
+	right:16px;
+}
+.nice-select .option {
+    padding-left: 29px;
+    padding-right: 18px;
+    text-align: right;
+}
+.nice-select .nice-select-search {
+    padding: 7px 30px 7px 12px;
+}
+.nice-select .nice-select-search-box:before {
+	left:auto;
+	right:13px;
+}
+.main-register_title {
+	padding-left:0;
+	padding-right:30px;
+}
+.main-register-holder .tabs-menu li a i, .filter-sidebar-header .tabs-menu li a i  {
+	margin-right:0;
+	margin-left:10px;
+	margin-top:4px;
+}
+.custom-form textarea, .custom-form input[type="text"], .custom-form input[type=email], .custom-form input[type=password], .custom-form input[type=button], .listsearch-input-item input[type="text"] , .main-search-input-item input , .chat-widget_input textarea , .search-widget input , .pagination , .checkout-table  , .coupon-holder input   , .price-rage-item , .opening-hours ul li span.opening-hours-time , .pricerange , review-images , .rate-range   {
+	direction:rtl;
+}
+ 
+.main-search-input {
+    padding: 8px 0 8px 180px;
+}
+.main-search-button {
+	right: auto;
+	left:10px;
+}
+.main-search-button i {
+	padding:0 10px 0 0;
+}
+.main-search-input-item input {
+	padding:0 40px 0 0;
+}
+.main-search-input-item {
+	border-right:none;
+	border-left:1px solid #eee;
+}
+.main-search-input-item label {
+	left:auto;
+	right:20px;
+}
+.main-search-input-tabs .tabs-menu li {
+	direction:rtl;
+	unicode-bidi: bidi-override;
+}
+.listsearch-input-item span.iconn-dec, .main-search-input-item span.iconn-dec {
+	left:auto;
+	right:20px;
+}
+.clear-singleinput {
+	right:auto;
+	left:14px;
+}
+.daterangepicker .calendar-table td, .daterangepicker .calendar-table th  {
+	float:right;
+	direction:rtl;
+}
+.daterangepicker .calendar-table th.month {
+	float:none;
+	display:inline-table;
+}
+.daterangepicker .calendar-table th.next {
+	float:left;
+}
+.daterangepicker .calendar-table th.next span{
+	border-width: 1px 0  0 1px;
+}
+.daterangepicker .calendar-table th.prev span{
+	border-width:1px 0  0 1px;
+}
+.daterangepicker select.ampmselect, .daterangepicker select.hourselect, .daterangepicker select.minuteselect, .daterangepicker select.secondselect  {
+	margin-right:15px;
+}
+.daterangepicker .drp-selected , .daterangepicker .drp-buttons .btn {
+	margin-bottom:10px;
+}
+.daterangepicker .drp-selected {
+	position:relative;
+	top:8px;
+}
+.listing-item-grid_title  {
+	text-align:right;
+}
+.listing-item-grid_title h3:before  , .geodir-opt-list:before  {
+	left:auto;
+	right:0;
+}
+.geodir-opt-list:before {
+	right:-15px;
+}
+.listing-item-grid .listing-counter   , .geodir-js-favorite_btn {
+	left:auto;
+	right:20px;
+}
+.geodir_status_date {
+	left:20px;
+	right: auto;
+}
+.listing-item-grid .listing-counter span {
+	padding:0 0 0 6px ;
+}
+.listing-slider .swiper-container , .testimonilas-carousel .swiper-container{
+	padding-bottom:30px;
+}
+.listing-slider .swiper-container .tc-pagination_wrap , .testimonilas-carousel .swiper-container .tc-pagination{
+	bottom:-15px;
+ 
+}
+.testimonilas-carousel .swiper-container .tc-pagination {
+ 
+	float:none;
+	display:inline-block;
+	width:auto !important;
+}
+.geodir-js-favorite_btn span {
+	position:absolute;
+    padding: 0 48px 0 18px;
+    left: -56px;
+}
+.geodir_status_date i {
+	float:left;
+	margin: 0 10px 0 0;
+}
+.listing-rating-count-wrap .review-score , .geodir-category_contacts li span , .geodir-category_contacts li span i {
+    margin:0 0 0 12px;
+}
+.listing-rating i , .card-popup-rainingvis_bg span {
+	margin:0 0 0 4px;
+}
+.card-popup-rainingvis_bg {
+    left: auto;
+	right:0;
+}
+.listing_carditem_footer .geodir-category_price , .listing_carditem_footer .post-author {
+    margin: 0 26px 0 0;
+ 
+}
+.listing-item-category-wrap span  {
+	margin: 0 10px 0 0;
+}
+.post-author img {
+	margin: 0 0 0 20px;
+}
+.geodir-opt-list li {
+    margin:0 0 0  16px;
+}
+.close_gcc  {
+	right:auto;
+	left:10px;
+}
+.geodir-opt-tooltip , .price-name-tooltip {
+	right:-40px;
+}
+.verified-badge {
+	margin:0 10px 0 0;
+}
+.listing-avatar {
+	right:auto;
+	left:40px;
+}
+.avatar-tooltip {
+    right: auto;
+	left:0;
+    padding:0 0 0 60px;
+}
+.facilities-list li {
+	margin:0 0 0 14px;
+}
+.facilities-list-title {
+	margin:0 0 0 10px;
+}
+.promo-link {
+    padding: 16px 70px 16px 55px;
+}
+.promo-link i {
+	right:10px;
+    left: auto;
+}
+.footer-contacts li span i {
+    padding:0 0 0 7px;
+    position:relative;
+    top:2px;
+}
+.footer-contacts li a {
+	padding: 0 4px 0 0;
+}
+.footer-social span {
+	margin: 0 0 0 15px;
+}
+.to-top {
+	right:auto;
+	left:50px;
+}
+.subfooter-nav li {
+	margin:0 15px 0 0;
+}
+.subfooter-nav:before{
+	right:-2px;
+}
+.twitter-holder , .footer-widget-posts .widget-posts-date i {
+	padding:0 0 0 15px;
+}
+.twitter-holder:before {
+	right:auto;
+	left:5px;
+}
+#footer-twiit p.tweet:after {
+	right:auto;
+	left:12px;
+}
+#footer-twiit .timePosted a  , .ab_text{
+	padding:0 20px 0 0;
+}
+#footer-twiit .timePosted a:before {
+	left:auto;
+	right:0;
+	top:2px;
+}
+#footer-twiit .timePosted a:after {
+	left:auto;
+	right:22px;
+}
+.footer-widget h3:before {
+	right:0;
+    left: auto;
+}
+.footer-widget-posts .widget-posts-descr  {
+	padding:0 12px 0 0;
+}
+.footer-widget-posts .widget-posts-descr:before {
+	right:12px;
+	left:0;
+}
+.footer-widget-posts .widget-posts-date i {
+	position:relative;
+	top:2px;
+}
+.footer-link i {
+	margin:0 14px 0 0;
+}
+#subscribe .enteremail {
+    padding: 0 25px 0 120px;
+	direction: rtl;
+}
+#subscribe-button   , .error-wrap form .search-submit , .bottom-bcw-box_link , .reply-item , .clear-cart  , .reviews-comments-item-text .review-score-user , .shop-rage-wrap .srw_btn , .map-container.column-map.right-pos-map {
+	right:auto;
+	left:0;
+}
+#subscribe-button:before {
+	left:auto;
+	right:0;
+	background:#eee;
+}
+.mapnavigation {
+	right:auto;
+	left:64px;
+}
+.scrollContorl.mapnavbtn, .location-btn {
+	right:auto;
+	left:19px;
+}
+.error-wrap form input {
+	direction:rtl;
+    padding: 0 20px 0 100px;
+}
+.section-separator.fl-sec-sep:before  , .user-profile-header_stats li:before  {
+	left:auto;
+	right:0;
+}
+.list-single-main-media .promo-link {
+	left:auto;
+	right:50px;
+}
+.breadcrumbs  , .list-main-wrap-title{
+	direction:rtl;
+}
+.breadcrumbs a:before, .breadcrumbs.top-breadcrumbs a:before {
+    content: "\f0d9";
+	right:auto;
+	left:-4px;
+}
+.process-item_time-line:after , .status  , .box-media-zoom{
+	right:auto;
+	left:20px;
+}
+.team-social {
+    border-radius: 40px 0 0 40px;
+}
+.team-social li {
+	margin:0 0 0 15px;
+}
+.page-scroll-nav {
+	right:auto;
+	left:50px;
+}
+.breadcrumbs.inline-breadcrumbs:before, .top-breadcrumbs .container:before , .list-single-main-item-title:before, .box-widget-item-header:before , .follow-btn  , .box-widget-author-title_opt {
+	right:auto;
+	left:30px;
+}
+.breadcrumbs.inline-breadcrumbs a:first-child, .dasboard-breadcrumbs a:first-child {
+	padding-left:16px;
+	padding-right:0;
+}
+.user-profile-header_media_title {
+	padding:0 130px 0 0;
+}
+.user-profile-header_stats {
+	padding: 0 0 0 30px;
+}
+.user-profile-header-avatar  {
+	left:auto;
+	right:30px;
+}
+.user-profile-header_stats li:first-child {
+    border-radius:0 4px   4px 0;
+}
+.user-profile-header_stats li:last-child {
+    border-radius: 4px 0 0 4px;
+}
+.grid-opt {
+	margin:0 12px 0 0;
+}
+.follow-btn i {
+	position:relative;
+	top:3px;
+}
+.list-author-widget-contacts li span i , .list-widget-social li {
+	margin: 0 0 0 7px;
+}
+.bottom-bcw-box_link {
+	border-left:none;
+	border-right: 1px solid #eee;
+}
+.bottom-bcw-box {
+	padding:12px 30px 12px 70px;
+}
+.box-widget-author-title {
+    padding: 20px 30px 30px 150px;
+}
+.box-widget-author-title-img {
+	margin:0 0 0 18px;
+}
+.box-widget-author-title_opt:before {
+    border-radius:0 70px  70px 0;
+    left: -30px;
+    right: -20px;
+    border: 1px solid #eee;
+    border-left: none;
+}
+.chat-widget-button , .chat-widget_wrap  {
+	right:auto;
+	left:50px;
+}
+.chat-widget_input {
+	padding:0 0 0 60px;
+}
+.chat-widget_input button {
+	right:auto;
+	left:8px;
+}
+.chat-message {
+	padding:0 60px 0 0;
+}
+.chat-message.chat-message_user {
+	padding:0 0 0 60px;
+}
+.chat-message .dashboard-message-avatar , .success-table-header i.decsth {
+	left:auto;
+	right:0;
+}
+.chat-message-user-name {
+	left:auto;
+	right:4px;
+}
+.chat-message.chat-message_user .dashboard-message-avatar , .show-cart  , .close-cart , .close_sbfilters  {
+	left:0;
+	right:auto;
+}
+.chat-message.chat-message_user .chat-message-user-name {
+	left:4px;
+	right:auto;
+}
+.chat-message p {
+    border-radius: 10px 0 10px 10px;
+    text-align: right;
+}
+.chat-message.chat-message_user p {
+    border-radius: 0 10px  10px 10px;
+}
+.search-widget input {
+    padding: 0 20px 0 80px;
+}
+.search-widget .search-submit {
+    right: auto;
+	left:0;
+    border-radius:54px 0 0 54px;
+}
+.tags-stylwrap a {
+    margin: 0 0 6px 6px;
+}
+.cat-item li:before {
+    left: auto;
+	right:50%;
+    margin: 0 -25px 0 0;
+}
+.brd-show-share{
+	right:auto;
+	left:70px;
+}
+.share-holder {
+	right:auto;
+	left:190px;
+}
+.post-opt {
+    padding-top: 13px;
+}
+.post-author {
+	margin:0 0 0 20px;
+}
+.post-article .btn {
+	margin-top:2px;
+}
+.post-opt li i {
+	padding:4px 0 0 8px;
+}
+blockquote:before {
+	right:auto;
+	left:6px;
+}
+blockquote  {
+	border-left:none;
+	border-right:15px solid;
+}
+.tags-stylwrap .tags-title{
+	margin:0 0 0 18px;
+}
+.tags-stylwrap .tags-title i {
+	margin:4px 0 0 6px;
+}
+.reviews-comments-item {
+    padding: 0 90px 20px 0;
+}
+.review-comments-avatar {
+    left: auto;
+	right:10px;
+}
+.review-comments-avatar:before {
+	right:auto;
+	left:-20px;
+	transform:rotate(180deg)
+}
+.reviews-comments-item-date span i, .reviews-comments-item-date a i {
+	margin:0 0 0 10px;
+}
+.reviews-comments-item-date span i {
+	margin-top:3px;
+}
+.custom-form label i {
+	left:auto;
+	right:12px;
+}
+.custom-form textarea, .custom-form input[type="text"], .custom-form input[type=email], .custom-form input[type=password], .custom-form input[type=button], .listsearch-input-item input[type="text"] {
+	padding: 15px 45px 15px 20px;
+}
+#progressbar li:first-child , #progressbar li:before {
+    left: auto;
+	right:0;
+}
+.success-table-header {
+	padding: 10px 70px 0 0;
+}
+.pull-right {
+	float:left !important;
+}
+.checkout-table th{
+	text-align:center !important;
+}
+.coupon-holder input {
+	padding-right:20px;
+}
+.coupon-holder button.btn-a {
+	margin: 0 20px 0 0;
+}
+.show-cart {
+	border-radius:0 4px 4px 0;
+}
+.show-cart span  {
+	right:-5px;
+	left:auto;
+}
+.cart-modal-det {
+	padding:0 20px 0 0;
+}
+.cart-modal-list a.remove {
+	right:auto;
+	left:10px;
+}
+.cart-modal {
+	right:auto;
+	left:-350px;
+}
+.faq-nav li a.act-scrlink:before  {
+	right:auto;
+	left:16px;
+	content: "\f104";
+}
+.accordion a.toggle span  {
+	right:auto;
+	left:-1px;
+}
+.features-box {
+	padding: 25px 100px 25px 10px;
+}
+.features-box .time-line-icon {
+	left:auto;
+	right:10px;
+}
+.phd_sale {
+	right:auto;
+	left:-30px;
+    border-radius: 0 0 6px 0;
+}
+.product-header-details_price.old-price  , .product-header-details_price{
+	margin: 0 0 0 10px;
+}
+.product-header_form button  {
+	margin: 0 20px 0 0;
+}
+.rate-review span {
+	margin:0 6px 0 0;
+}
+.rate-review i {
+    margin:0 0 0 6px;
+}
+.leave-rating-title , .listsearch-input-wrap-header i  , .scroll-nav li a i{
+	margin:0 0 0 10px;
+}
+.price-opt-title {
+	padding:0 0 0 14px ;
+} 
+ 
+.irs-bar , .irs-bar-edge , .more-filter-option-wrap   {
+    right: 0;
+    left: auto;
+}
+.price-rage-wrap.shop-rage-wrap {
+    padding-left: 70px;
+    padding-right: 0;
+}
+.daterangepicker {
+	min-width:250px;
+}
+.filter-tags li {
+    margin: 0 0 10px 10px;
+}
+.infoBox-close  {
+	right: auto;
+	left:0;
+	border-radius:0 0   8px 0;
+}
+.infobox-status , .card-popup-raining {
+	right:20px;
+	left: auto;
+}
+.card-popup-raining i {
+	margin:0 0 0 3px;
+}
+.map-popup-location-category   {
+	right: auto;
+	left:20px;
+}
+.map-popup-location-info i {
+	padding:0 0 0 10px;
+} 
+.infowindow_wishlist-btn{
+	right: auto;
+	left:0;
+	border-left:none;
+	border-right:1px solid #eee;
+}
+.map-popup-footer .main-link i {
+	padding:10px 10px 0 0;
+}
+.list-main-wrap-header.anim_clw , .hidden-search-column , .listing-hero-section .list-single-header-item h1:before , .restmenu-item-img , .chat-contacts-item .dashboard-message-avatar , .message-counter{
+	left:auto;
+	right:0;
+}
+.col-list-wrap.anim_clw.hidsb_act , .list-main-wrap-header.anim_clw.hidsb_act{
+	left:auto !important;
+	right:380px !important;
+}
+.clbtg {
+	right:auto;
+	left:-40px;
+	border-radius:4px 0 0 4px ;
+}
+.close_sbfilters {
+    border-radius:0 30px  30px 0;
+}
+.category-carousel-item-icon  {
+	left:auto;
+	right:19px;
+}
+.list-single-header-item .geodir-category-location a{
+	margin:0 0 0 12px;
+}
+.list-single-header-column:after  {
+	right:auto;
+	left:14px;
+}
+.list-single-header-item .verified-badge {
+    margin:  20px 0 0 10px;
+}
+.list-single-author , .show-more-snopt {
+	margin:0 20px 0 0;
+}
+.list-single-header_bottom .geodir_status_date {
+	margin:0 16px 0 0;
+}
+.list-single-stats li , .scroll-nav-wrapper-opt a.scroll-nav-wrapper-opt-btn {
+    margin:0 10px 0 0;
+}
+.scroll-nav  {
+	border:none;
+	border-left:1px solid #eee;
+}
+.scroll-nav li {
+	direction:rtl;
+    margin:0 15px 0 0;
+}
+.scroll-nav li a {
+    padding: 25px 0 25px 20px;
+}
+.show-more-snopt-tooltip {
+	right:auto;
+	left:0;
+}
+.show-more-snopt-tooltip a i {
+	margin:4px 0 0 6px;
+}
+.pricerange span  , .claim-widget-link span{
+	margin:0 0 0 20px;
+}
+.custom-form .quantity span i  {
+	padding:4px 0 0 10px;
+}
+.list-single-main-item_content .listing-features li i  {
+	margin:0 0 0 10px;
+}
+.listing-features li {
+	margin:0 0 10px 15px;
+}
+.inline-facts-wrap i{
+	right:auto;
+	left:30px;
+}
+.restmenu-item {
+    padding: 10px 84px 10px 20px;
+}
+.review-images {
+	flex-direction: row-reverse	
+}
+.review-score-total {
+    left: auto;
+	right:20px;
+}
+.review-score-detail {
+    padding:0 110px 0 0;
+}
+.review-score-detail-list .rate-item {
+    padding:0 0 0 10px;
+}
+.rate-item-percent {
+    right: auto;
+	left: 10px;
+}
+.review-range-container {
+	padding:0 0 0 20px;
+}
+.review-total {
+    border-radius:0 38px 38px 0;
+    left: -31px;
+}
+ 
+.counter-widget {
+	margin:0 40px 0 0;
+}
+.counter-widget:before {
+	right:-20px;
+    left: auto;
+}
+.rooms-details {
+    padding: 5px 20px 10px 0;
+}
+.rooms-price  , .dhs-controls , .tfp-btn  , .tfp-det , .user-profile-menu li a:before , .dashboard-title:before , .booking-list-contr , .range-slider-wrap .irs-bar, .range-slider-wrap  .irs-bar-edge , .chat-contacts-item:after , .map-modal-close{
+    right: auto;
+	left:0;
+}
+.dashboard-header-stats-wrap {
+	padding: 0 0 0 90px;
+}
+.dashboard-header_conatiner {
+    padding:0 150px 0 0;
+}
+.dashboard-header-avatar , .dashboard-breadcrumbs {
+    left: auto;
+	right:10px;
+}
+.edit-prof_btn {
+	left:auto;
+	right:-10px;
+}
+.dashboard-breadcrumbs a {
+	padding:0 0 0 20px;
+	margin:0 0 0 20px;
+}
+.tfp-btn {
+	padding: 12px 30px 12px 40px;
+}
+.tfp-btn:before {
+    left: 11px;
+	right: auto;
+}
+.tfp-btn strong {
+    padding:0 5px 0 0;
+}
+.dashboard-header-stats-item {
+    padding: 6px 60px 6px 0;
+}
+.dashboard-header-stats-item i {
+	left:auto;
+	right:8px;
+}
+.add_new-dashboard i {
+    padding:3px 12px 0 0;
+}
+.user-profile-menu li a i  {
+	margin:0 0 0 14px;
+}
+.user-profile-menu li a span {
+	right:auto;
+	left:20px;
+}
+.user-profile-menu h3 {
+	padding:0 20px 12px 0;
+}
+.logout_btn {
+	margin:10px 20px 0 0;
+}
+.logout_btn i {
+	margin:0 12px 0 0;
+}
+.dashboard-message-time {
+	padding:0 0 0 70px;
+	text-align:left;
+}
+.dashboard-message-text i {
+	margin:0 0 0 20px;
+}
+.new-dashboard-item {
+	right:auto;
+	left:20px;
+}
+.header-user-menu  {
+	margin:0 0 0 90px;
+}
+.radio span {
+	padding:0 30px 0 0;
+}
+.radio span:after {
+	right:0;
+	left:auto;
+}
+.radio input[type="radio"]:checked + span:before {
+	right:4px;
+	left:auto;
+}
+.onoffswitch-inner:before  {
+	text-align:left;
+}
+.booking-list-contr {
+    border-radius:0 38px   38px 0;
+}
+.booking-list-message-text {
+    margin:0 30px 0 0;
+    padding:0  50px 0 0;
+}
+.booking-list-new {
+	left:auto;
+	right:30px;
+}
+.booking-title , .map-modal-container h3 span {
+	padding:0 0 0 10px;
+}
+.dashboard-message-text img {
+    margin:0 0 0  20px;
+}
+.dashboard-tabs .tabs-menu li a span  {
+	padding:0 0 0 5px;
+}
+.chat-contacts-item {
+	padding: 20px 70px 20px 20px;
+}
+.chat-contacts-item .chat-contacts-item-text span {
+	right:auto;
+	left:10px;
+}
+.chat-contacts-item .chat-contacts-item-text p {
+	text-align:right;
+}
+.map-modal-close {
+	border-left:none;
+	border-right:1px solid #eee;
+}
+.map-modal-container h3 {
+	padding:0 20px 0 0;
+}
+ 
+
+@media only screen and  (max-width: 1290px) {
+.header-search_btn {
+	width:40px !important;
+	padding:0 !important;
+	margin-right:30px;
+}
+.header-search_btn i {
+	float:none;
+	margin:0;
+}
+}
+@media only screen and (max-width: 1064px){
+.tfp-btn , .tfp-det {
+	left:auto;
+	right:0;
+}
+.dashboard-header_conatiner {
+    padding: 20px 0;
+}
+.add_new-dashboard  , .post-article .btn{
+	float: right;
+}
+.post-article .btn {
+	margin-top:30px;
+}
+.map-container.column-map.right-pos-map, .map-container.fw-map.big_map.hid-mob-map {
+	right:-100%;
+	left:auto;
+}
+.list-main-wrap-header.anim_clw.hidsb_act {
+    left: 0 !important;
+}
+.menusb a {
+	text-align:right;
+}
+.menusb li i {
+	right:auto;
+	left:18px;
+    transform: rotate(90deg);
+}
+.menusb a.back {
+	text-align:right;
+	padding:0 24px 0 0;
+}
+.page-scroll-nav {
+    left: 0;
+}
+.page-scroll-nav nav {
+    border-radius:0 20px  20px 0;
+}
+}
+@media only screen and (max-width: 768px){
+.dashboard-message-time {
+	padding:0;
+}
+.vis-wishlist {
+    right: auto;
+	left:0;
+}
+.dashboard-message-time {
+	text-align:right;
+}
+.chat-contacts-item .dashboard-message-avatar {
+	right:5px;
+}
+.booking-list-message-text {
+    margin: 0 ;
+    padding: 0 ;
+}
+.booking-list-message-avatar img , .list-main-wrap-opt  {
+	float:right;
+}
+.reviews-comments-item {
+    padding: 20px 0 20px 0;
+}
+.main-search-input {
+    padding: 8px 15px;
+}
+.list-main-wrap-title   {
+	width:100%;
+}
+.list-main-wrap-opt {
+	margin-top:30px;
+ 
+}
+}
+@media only screen and  (max-width: 650px) {
+.header-search-input-wrap {
+    padding: 0;
+}
+.header-search_btn {
+	margin-right:10px;
+}
+.cart-btn {
+	margin-left:0;
+}
+.rate-review {
+	float:right;
+}
+.user-profile-header_media_title {
+    padding-right: 40px;
+}
+.user-profile-header_stats {
+	float:right;
+	padding:0 30px 0 0;
+}
+.pricing-switcher label   , .pricing-switcher .fieldset {
+	width:100%;
+}
+.pricing-switcher .switch {
+	right:5px;
+	width:auto;
+ 
+}
+.pricing-switcher input[type="radio"]:checked + label + .switch, .pricing-switcher input[type="radio"]:checked + label:nth-of-type(n) + .switch {
+	transform: translateX(0) translateY(44px);
+}
+}
